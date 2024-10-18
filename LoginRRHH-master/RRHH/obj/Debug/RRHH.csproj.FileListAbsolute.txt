@@ -1,0 +1,10 @@
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\bin\Debug\RRHH.exe.config
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\bin\Debug\RRHH.exe
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\bin\Debug\RRHH.pdb
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.csproj.AssemblyReference.cache
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.Form1.resources
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.csproj.GenerateResource.cache
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.csproj.CoreCompileInputs.cache
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.exe
+D:\LAURA SANCHEZ\Downloads\LoginRRHH-master\RRHH\obj\Debug\RRHH.pdb
